@@ -1,0 +1,4 @@
+main: com.blendycat.bukkit.utils.Util
+name: Utils
+version: 0.0.1
+author: BlendyCat
